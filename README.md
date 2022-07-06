@@ -1,5 +1,4 @@
-# m3uSave Bot
-A Telegram bot to Save m3u Links to VIDEO
+# RCBOT
 ---
 
 ## Variables
